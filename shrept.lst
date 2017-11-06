@@ -1,0 +1,8 @@
+# function entry points for genclntsh.sh
+
+network : snaumihi_inithostinfo
+network : snaumbg_gmt
+network : naedpwd_encrypt
+network : naumbsb_bld_singlebyte
+network : ztapis
+network : nlgh
